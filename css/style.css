@@ -4,9 +4,11 @@
     transition: .3s;
     margin: 0 auto;
     margin-top: 12.5%;
+    border: 1px solid #ddd;
 }
 .card:hover{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 4px 8px 0 rgba(81, 145, 204, 0.92);
+    border: none;
 }
 .container{
     padding: 15px;
